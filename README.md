@@ -23,7 +23,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cnrishiraj&show_icons=true&locale=en" alt="cnrishiraj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cnrishiraj&" alt="cnrishiraj" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cnrishiraj&" alt="cnrishiraj" /></p>
 
-<div align="center"> <a href="https://leetcode.com/studyplan/30-days-of-javascript/" target="_blank"></a></div>
-<div style="width=100%;" align="center"> <img style="display:block; width=100%;" align="center" src="https://leetcard.jacoblin.cool/rishi_raj121?ext=heatmap" /> </div>
+[<p><img style="display:flex; width=50%;" align="left" src="https://leetcard.jacoblin.cool/rishi_raj121?ext=heatmap" /></p>](https://leetcard.jacoblin.cool/rishi_raj121?theme=light&font=Work%20Sans&ext=heatmap)
